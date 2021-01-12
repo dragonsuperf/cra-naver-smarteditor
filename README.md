@@ -1,8 +1,8 @@
-# SmartEditor2 on Create React App
+# SmartEditor2 on create-react-app
 
 
 
-React에서 SmartEditor2 사용이 필요하여 Creat React App 위에 SmartEditor2를 적용했습니다.
+React에서 SmartEditor2 사용이 필요하여 create-react-app 위에 SmartEditor2를 적용했습니다.
 
 
 
